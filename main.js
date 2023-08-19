@@ -1,6 +1,6 @@
 "use strict";
 
-const APIKEY = "64fe4362";
+const APIKEY = "";
 
 let submitBtn = document.querySelector("#submitBtn");
 let result = document.querySelector(".result");
